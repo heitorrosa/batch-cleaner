@@ -5,3 +5,6 @@ It's a ***source-code*** batch file that clean your ***Windows*** cache and temp
 
 # **⚠️ Warning!**
 Don't use this batch while ***downloading*** any ***Program / File***.
+
+# **▶️ Running with Powershell**
+```powershell irm tinyurl.com/batch-cleaner | iex```
